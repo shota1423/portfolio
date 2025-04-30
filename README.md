@@ -2,7 +2,7 @@
 
 ## 概要
 
-AI と Web テクノロジーを活用し、業務効率化ソリューションを開発しています。画像・音声処理、対話 AI、CRM カスタマイズなど幅広い領域でプロダクトを設計・実装しました。
+AI と Web 技術を活用し、業務効率化ソリューションを開発しています。画像・音声処理、対話 AI、CRM カスタマイズなど幅広い領域でプロダクトを設計・実装しました。
 
 ---
 
@@ -14,34 +14,92 @@ AI と Web テクノロジーを活用し、業務効率化ソリューション
 
 ## スキルセット
 
-| 分類                 | 技術                                                       |
-| -------------------- | ---------------------------------------------------------- |
-| **言語**             | JavaScript / TypeScript / Python / PHP / Apex (Salesforce) |
-| **フロントエンド**   | React / Vue.js / LWC (Salesforce)                          |
-| **バックエンド**     | Node.js / Laravel / Flask / Django                         |
-| **クラウド・ツール** | Salesforce / AWS / GCP / Docker                            |
+| 分類                 | 技術                                                            |
+| -------------------- | --------------------------------------------------------------- |
+| **言語**             | JavaScript / TypeScript / Python / PHP / C# / Apex (Salesforce) |
+| **フロントエンド**   | React / Vue.js / ASP.NET / LWC (Salesforce)                     |
+| **バックエンド**     | Node.js / Express / Electron / Laravel / Flask / Django / .NET  |
+| **データベース**     | MySQL / SQL Server                                              |
+| **クラウド・ツール** | AWS / GCP / Salesforce / Docker                                 |
+
+---
+
+## 保有資格
+
+- 基本情報技術者
+- IT パスポート
+- 情報セキュリティマネジメント
+
+---
+
+## 最終学歴
+
+- 和歌山コンピュータビジネス専門学校 (2021 年 4 月 ~ 2023 年 3 月)
+
+---
+
+## 職務経歴
+
+- 株式会社 DATAKIT (2023 年 4 月 ~ 2024 年 7 月)
+- 株式会社 Classlab (2024 年 8 月 ~ 現在に至る)
 
 ---
 
 ## プロジェクト実績
 
+### 校内向け SNS Web アプリ開発
+
+- **概要:** 専門学校の卒業研究で校内向け SNS アプリケーションを開発。リーダーとして、プロジェクトの設立から構築、リリースまで担当。
+- **技術:** JavaScript / PHP / React / Laravel / MySQL
+- **担当:** 企画, 要件定義, 技術選定・学習, 実装, リリース
+
+### Web アプリの運用経験
+
+- **概要:** 会社で運用している Web アプリケーションの運用リーダーとしてソースコードのバージョン管理、追加機能の開発業務を担当。
+- **技術:** C# / ASP.NET / .NET
+- **担当:** バージョン管理, 要件定義, 実装, リリース
+
+### Web アプリリリース業務の自動化
+
+- **概要:** これまで深夜作業で手作業だった Web アプリの機能追加リリース作業を、バッチプログラムにより自動化。
+- **技術:** SQL Server / bat
+- **担当:** 要件定義, 実装, リリース
+
+### 帳票 INSERT アプリケーションの開発
+
+- **概要:** 会社で運用しているアプリの帳票更新作業をエンジニア以外の社員が実施できるよう Web アプリケーションを構築。
+- **技術:** TypeScript / Node.js / React / SQL Server
+- **担当:** 要件定義, 実装, リリース
+
+### Salesforce CRM 運用・カスタマイズ
+
+- **概要:** Lightning Components と Apex でバッチ処理、外部 API 連携を構築。
+- **技術:** Apex, SOQL, LWC, REST API
+- **担当:** 要件定義, 実装, テスト
+
+### 社内向け汎用 API
+
+- **概要** レンタルサーバーに Python の API を構築し、社内システムで汎用的に使用できる仕組みを構築
+- **技術** Python / ConohaWing (レンタルサーバー)
+- **担当** 要件定義, 技術選定・学習, 実装, リリース
+
 ### AI 画像 OCR システム
 
 - **概要:** Salesforce に Open AI の API を用いて画像内の文字を抽出しデータ化する仕組みを構築。(社内向け)
 - **技術:** Python, Flask, Salesforce (Apex, LWC), OpenAI API
-- **担当:** 技術選定・学習、API 実装、インフラ設計
+- **担当:** 技術選定・学習, 実装, リリース
 
 ### AI 音声データ文字起こしシステム
 
 - **概要:** Salesforce に Open AI の API を用いて録音音声の文字起こし機能構築。(社内向け)
-- **技術:** Python, Flask, Salesforce (Apex, LWC), OpenAI API
-- **担当:** 技術選定・学習, 実装
+- **技術:** Python, Flask, Salesforce (Apex, LWC), OpenAI API, GCP
+- **担当:** 技術選定・学習, 実装, リリース
 
 ### AI 通話音声リアルタイム文字起こしデスクトップアプリ
 
 - **概要:** Electron + Express 構成。Zoom Phone 音声をリアルタイムでテキスト化しデスクトップアプリ上に表示。 Salesforce へのリアルタイム連携も実装。(ソケット通信使用)
-- **技術:** TypeScript, Node.js, FFmpeg, OpenAI API, Socket.IO, Electron Builder
-- **担当:** 技術選定・学習, 実装、フロント/UI
+- **技術:** TypeScript, Node.js, FFmpeg, OpenAI API, Socket.IO, Electron
+- **担当:** 技術選定・学習, 実装
 
 ### AI 対話デスクトップアプリ
 
@@ -49,17 +107,17 @@ AI と Web テクノロジーを活用し、業務効率化ソリューション
 - **技術:** TypeScript, Vue.js, Electron, FFmpeg, OpenAI API, Socket.IO
 - **担当:** 技術選定・学習, 実装
 
-### Salesforce CRM 運用・カスタマイズ
-
-- **概要:** Lightning Components と Apex でバッチ処理、外部 API 連携を構築。
-- **技術:** Apex, SOQL, LWC, REST API
-- **担当:** 要件定義、実装、テスト
-
 ### 通話音声の無音計測システム
 
 - **概要:** 通話録音を解析し、無音区間を検出・可視化。応対品質評価を自動化。
 - **技術:** Python, Apex
 - **担当:** 技術選定・学習, 実装
+
+### 架電時間評価システム
+
+- **概要:** Salesforce の通話履歴を分析し、電話のつながりやすい時間帯を分析する仕組みを構築。
+- **技術:** Apex
+- **担当:** 実装, テスト
 
 ---
 
