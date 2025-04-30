@@ -50,25 +50,25 @@ AI と Web 技術を活用し、業務効率化ソリューションを開発し
 ### 校内向け SNS Web アプリ開発
 
 - **概要:** 専門学校の卒業研究で校内向け SNS アプリケーションを開発。リーダーとして、プロジェクトの設立から構築、リリースまで担当。
-- **技術:** JavaScript / PHP / React / Laravel / MySQL
+- **技術:** JavaScript, PHP, React, Laravel, MySQL
 - **担当:** 企画, 要件定義, 技術選定・学習, 実装, テスト, リリース
 
 ### Web アプリの運用経験
 
 - **概要:** 会社で運用している Web アプリケーションの運用リーダーとしてソースコードのバージョン管理、追加機能の開発業務を担当。
-- **技術:** C# / ASP.NET / .NET
+- **技術:** C#, ASP.NET, .NET
 - **担当:** バージョン管理, 要件定義, 実装, テスト, リリース
 
 ### Web アプリリリース業務の自動化
 
 - **概要:** これまで深夜作業で手作業だった Web アプリの機能追加リリース作業を、バッチプログラムにより自動化。
-- **技術:** SQL Server / bat
+- **技術:** SQL Server, bat
 - **担当:** 要件定義, 実装, テスト, リリース
 
 ### 帳票 INSERT アプリケーションの開発
 
 - **概要:** 会社で運用しているアプリの帳票更新作業をエンジニア以外の社員が実施できるよう Web アプリケーションを構築。
-- **技術:** TypeScript / Node.js / React / SQL Server
+- **技術:** TypeScript, Node.js, React, SQL Server
 - **担当:** 要件定義, 実装, テスト, リリース
 
 ### Salesforce CRM 運用・カスタマイズ
@@ -80,19 +80,19 @@ AI と Web 技術を活用し、業務効率化ソリューションを開発し
 ### 社内向け汎用 API
 
 - **概要** レンタルサーバーに Python の API を構築し、社内システムで汎用的に使用できる仕組みを構築
-- **技術** Python / ConohaWing (レンタルサーバー)
+- **技術** Python, ConohaWing (レンタルサーバー)
 - **担当** 要件定義, 技術選定・学習, 実装, テスト, リリース
 
 ### AI 画像 OCR システム
 
 - **概要:** Salesforce に Open AI の API を用いて画像内の文字を抽出しデータ化する仕組みを構築。(社内向け)
-- **技術:** Python, Flask, Salesforce (Apex, LWC), OpenAI API
+- **技術:** Python, Flask, Apex, LWC, OpenAI API
 - **担当:** 技術選定・学習, 実装, テスト, リリース
 
 ### AI 音声データ文字起こしシステム
 
 - **概要:** Salesforce に Open AI の API を用いて録音音声の文字起こし機能構築。(社内向け)
-- **技術:** Python, Flask, Salesforce (Apex, LWC), OpenAI API, GCP
+- **技術:** Python, Flask, Apex, LWC, OpenAI API, GCP
 - **担当:** 技術選定・学習, 実装, テスト, リリース
 
 ### AI 通話音声リアルタイム文字起こしデスクトップアプリ
